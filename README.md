@@ -26,7 +26,7 @@ Kindly refer to the "Characterization of the music stimuli" section of the main 
 
 ## Participant_Information.csv : Detailed Participant Information
 
-This data file presents simple participant demographics and information on their music training. A list of column names and their corresponding information is given below:
+This data file presents simple participant demographics and information on their music training. 
 
 * _ParticipantNumber_ : Participant ID
 * _Trained_ : Have you ever recieved a formal training in music ?   
@@ -49,7 +49,7 @@ All the other column names are self-explanatory.
 The data file is called "AllRagaData.csv" with dimension of (4855, 18). 
 
 * _RagaNumber_ : One particular Raga among the 24 Raga excerpts   
-* The columns "Angry","Calm.Soothed", "Devotional", "Happy", "Longing.Yearning", "Romantic.Tender","Sad", "Tensed.Restless" present the emotion responses  
+* The columns "Angry","Calm.Soothed", "Devotional", "Happy", "Longing.Yearning", "Romantic.Tender","Sad", "Tensed.Restless" present the emotion responses.      
 * _familiar_ : Are you familiar with Hindustani Music ?
 * _feeling_ : How are you feeling after listening to the raga excerpt ?
 * _Trained_ : Have you ever recieved a formal training in music ?   
@@ -61,9 +61,15 @@ All the other column names are self-explanatory.
 
 ## Aggregated Emotion score by cultural groups, Music Stimuli values and Familiarity scores
 
+The data file is called "AveragedEmotionScores_MusicStimuliValue.csv"
 
-
-
-
-
+* Calm_E, Calm_NE, Happy_E, Happy_NE, Romantic_E, Romantic_NE, Devotional_E, Devotional_NE, Sad_E, Sad_NE, Tensed_E, Tensed_NE, Angry_E, Angry_NE, Longing_E, Longing_NE : All these columns present the averaged emotion responses either for Enculturated (E) or for Non- Enculturated (NE) participants for each of the 24 raga excerpts.  
+* _Mode_ : Presentation mode of the Raga (_Alaap_ vs. _Gat_)
+* _Note_Density_ : Estimated values for Note_Density
+* _Pulse_Clarity_ : Estimated values for Pulse_Clarity
+* _Tonality_ :	Estimated values for Tonality
+* _Raga_ :	Name of the Raga excerpt
+* _Fscore_E_ : Familiarity score for Enculturated participants
+* _Fscore_NE_ : Familiarity score for Non-Enculturated participants
+* _Raga_number_ : Raga number corresponding to the 24 raga excerpts 
 
