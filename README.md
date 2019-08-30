@@ -22,7 +22,7 @@ The raga excerpts heard by participants of the online survey were presented in a
 
 ## AllRagaData.csv : All Emotion Response data for the 24 Ragas by Raga Number
 
-The data file is called "AllRagaData.csv" with dimension of (4855, 18). The columns "Angry", "Calm.Soothed","Devotional","Happy","Longing.Yearning", "Romantic.Tender","Sad", "Tensed.Restless" present the emotion responses. All the other column names are self-explanatory. 
+The data file is called "AllRagaData.csv" with dimension of (4855, 18). The columns "Angry","Calm.Soothed", "Devotional", "Happy", "Longing.Yearning", "Romantic.Tender","Sad", "Tensed.Restless" present the emotion responses. All the other column names are self-explanatory. 
 
 ## Raga number and Raga names 
 
