@@ -24,8 +24,8 @@ The raga excerpts heard by participants of the online survey were presented in a
 
 This data file presents simple participant demographics and information on their music training. A list of column names and their corresponding information is given below:
 
-Trained : Have you ever recieved a formal training in music ?
-Trained_Start.age : If "yes" to "Trained", then at what age did you start training ?
+* Trained : Have you ever recieved a formal training in music ?   
+* Trained_Start.age : If "yes" to "Trained", then at what age did you start training ?  
 Trained_Years : If "yes" to "Trained", then how long have you been trained ?
 Trained_Perfom : If "yes" to "Trained", then have you ever performed semi-professionally or professionally ? 
 Trained_Practise : If "yes" to "Trained", then how many hours per week do you practise ?
