@@ -63,8 +63,8 @@ All the other column names are self-explanatory.
 
 The data file is called "AveragedEmotionScores_MusicStimuliValue.csv"
 
-* Calm_E, Calm_NE, Happy_E, Happy_NE, Romantic_E, Romantic_NE, Devotional_E, Devotional_NE, Sad_E, Sad_NE, Tensed_E, Tensed_NE, Angry_E, Angry_NE, Longing_E, Longing_NE : All these columns present the averaged emotion responses either for Enculturated (E) or for Non- Enculturated (NE) participants for each of the 24 raga excerpts.  
-* _Mode_ : Presentation mode of the Raga (_Alaap_ vs. _Gat_)
+* Calm_E, Calm_NE, Happy_E, Happy_NE, Romantic_E, Romantic_NE, Devotional_E, Devotional_NE, Sad_E, Sad_NE, Tensed_E, Tensed_NE, Angry_E, Angry_NE, Longing_E, Longing_NE : All these columns present the averaged emotion responses either for Enculturated (E) or Non- Enculturated (NE) participants for each of the 24 raga excerpts.  
+* _Mode_ : Presentation mode of the Raga excerpts (_Alaap_ vs. _Gat_)
 * _Note_Density_ : Estimated values for Note_Density
 * _Pulse_Clarity_ : Estimated values for Pulse_Clarity
 * _Tonality_ :	Estimated values for Tonality
