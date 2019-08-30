@@ -1,0 +1,456 @@
+ParticipantNumber,Age,Sex,Trained,Trained_Start age,Trained_Years,Trained_Perfom,Trained_Practise,Genre,Language_Native,Language_fluent,Ethnicity,Other,Familiarity
+2,20-40,Female,no,0,0,,0,,Bengali,"English
+Hindi
+Bengali
+Marathi",Asian,,A Little
+3,20-40,Female,yes,7,6,,0,Carnatic vocal,Tamil,"Tamil
+Hindi
+Kannada
+English",Asian,,A Little
+4,20-40,Male,no,0,0,,0,,Hindi,hindi,Asian,,Somewhat
+5,20-40,Male,no,0,0,,0,,kannada,"Hindi, Telugu, Kannada, English",Asian,,Not at all
+6,20-40,Female,no,0,0,,0,,Tamil,"Tamil,English,Hindi",Asian,,Not at all
+7,20-40,Female,yes,8,2,,0,vocal Hindustani [approx. 1yr] + vocal Carnatic [approx. 1yr],Kannada,"Kannada, Hindi, English",Asian,,Very
+10,20-40,Male,no,0,0,,0,,Telugu,"Telugu
+English
+Hindi
+Kannada",Asian,,Somewhat
+13,20-40,Female,no,0,0,,0,,kannada,"kannada
+english
+hindi
+telugu",Asian,,Somewhat
+14,20-40,Female,yes,12,8,No,0,Keyboard- Classical,Marathi,"Hindi
+Marathi 
+English
+Kannada
+Konkani",Asian,,A Little
+17,<20,Male,no,0,0,,0,,KODAVA,5,Asian,,A Little
+23,20-40,Male,no,0,0,,0,,Kannada,"Kannada, Hindi, English",Asian,,Not at all
+35,20-40,Female,yes,15,2,no,0,hindustani classical,hindi,,Asian,,Very
+36,20-40,Male,no,0,0,,0,,Marathi,3,Asian,,A Little
+37,<20,Female,yes,10,10,,1,"carnatic - vocal
+veena - instrument",telugu,"telugu
+hindi
+english
+sanskrit
+kannada
+french",Asian,,A Little
+39,40-60,Male,yes,16,10,,0,Vocal - Dhrupad,Hindi,"English
+Hindi
+",Asian,,Very
+42,20-40,Male,yes,19,2,Yes,0,"Instrument: drums and percussion
+Genres: Jazz, Folk, Rock, etc.",English,English,European,Caucasion,Very
+43,>60,Female,no,0,0,,0,,bengali,"bengali
+hindi
+english
+marathi",Asian,,A Little
+45,20-40,Male,yes,7,3,,0,"Harmonium, North Indian Classical",Gujarati,"English
+Hindi
+Gujarati",Asian,,Very
+46,40-60,Male,yes,25,7,no,0,Indian Classical,Marathi,"Marathi, Hindi, English",Asian,,Expert
+47,40-60,Female,no,0,0,,0,,Kannada,"hindi 
+kannada
+marathi
+Konkani
+Telugu
+French
+English",Asian,,A Little
+49,40-60,Female,no,0,0,,0,,English,1,American,,A Little
+52,<20,Female,yes,6,10,nope,0,"classical, ",kannada,3,Asian,,Very
+54,<20,Male,no,0,0,,0,,malayalam,"english,kannada,malayalam,hindi,tamil",Asian,,Somewhat
+62,40-60,Male,yes,20,4,,1,"as hail-s from musical people  I have heard music from my 15 years of age, but max. Marathi and Hindustani music., I sing- per me good- needs time to prepare,  about playing in last 2-3 years I am playing harmonium.",MARATHI,"MARATHI, HINDI, ENGLISH",Asian,belgaum,Very
+64,40-60,Female,yes,10,15,,0,"vocal-khayal,gajal,bhajan",marathi,3,Asian,,Very
+67,20-40,Female,yes,7,30,No,0,"Vocal - Western classical + Dhrupad
+Percussion - western classical, african, oriental
+Flute",Dutch,"Dutch
+English
+German",European,,Very
+72,40-60,Female,yes,9,8,,0,Classical Piano,English,English,Canada,Canadian,Not at all
+73,40-60,Male,yes,0,0,Yes,0,Sarod,Hindi,"Hindi
+English
+",Asian,New Delhi,Expert
+74,40-60,Male,no,0,0,,0,,English,"English (native), French (slowly spoken)",European,,Somewhat
+79,20-40,Male,yes,21,4,,0,Flute- indian classical...(mostly self taught),bengali,"Bengali
+English
+Hindi",Asian,,Very
+81,40-60,Female,yes,8,4,,0,piano classical,Dutch,"Dutch
+English
+German",European,,A Little
+86,20-40,Male,yes,14,2,,0,Vocal - Carnatic (limited training),Tamil,"English, Tamil, Hindi",Asian,,Not at all
+89,40-60,Female,no,0,0,,0,,punjabi,"english
+hindi
+punjabi",Asian,,A Little
+93,40-60,Female,no,0,0,,0,,Bengali,"English
+Hindi
+Bengali",Asian,,Somewhat
+94,20-40,Female,no,0,0,,0,,french,french english hindi urdu spanish,European,,Very
+95,20-40,Female,yes,9,2,no,0,"Vocal
+Harmonium",Marathi,"Marathi
+",Asian,,Somewhat
+96,40-60,Male,yes,13,7,no,1,Pipe organ,Spanish,"Spanish
+English
+French",European,,Not at all
+100,20-40,Female,yes,12,17,yes,2,"clarinet/bass clarinet, classical, contemporary classical, experimental",English,"English, French",American,,Not at all
+101,20-40,Male,yes,14,10,,0,"Classical Guitar
+Classical Piano
+Jazz Saxaphone
+",English,"English 
+Japanese",Other,Canadian(British)/Japanese,A Little
+102,20-40,Male,yes,20,6,yes,1,"Trumpet - jazz, classical & free-improvisation",English,English & French,American,,A Little
+103,20-40,Male,yes,16,10,,0,Guitar/Blues,English,English,European,,A Little
+104,20-40,Female,yes,5,26,yes,3,"Vocal - Classical/Jazz
+
+Piano - Classica
+
+Guitar - Jazz",English,French / English,European,,Somewhat
+107,40-60,Male,no,0,0,,0,,Bengali,"Hindi
+English
+Bengali",Asian,,Somewhat
+108,40-60,Female,no,0,0,,0,,kannada,"kannada
+hindi",Asian,,Somewhat
+112,40-60,Male,yes,17,2,No,2,Flute,Hindi,"Hindi
+English
+Punjabi
+Dogri",Asian,,Very
+115,20-40,Female,no,0,0,,0,,Malayalam,"English
+Hindi",Asian,,Somewhat
+116,20-40,Male,no,0,0,,0,,Malayalam,"Malayalam
+Hindi
+English",Asian,,Not at all
+117,20-40,Female,yes,10,12,,0,Flute-Classical,English,"English
+French (not perfectly)
+",American,,Somewhat
+118,40-60,Female,no,0,0,,0,,Tamil,"English
+Hindi
+Tamil
+Telugu",Asian,,A Little
+119,20-40,Male,yes,4,17,yes,6,"Classical Violin
+Composition
+Jazz Guitar
+Celtic Harp
+Sitar",English,English,Canada,Canada,Very
+126,40-60,Male,no,0,0,,0,,Bengali,"English, Hindi, Bengali",Asian,,Somewhat
+127,40-60,Male,no,0,0,,0,,Marathi,"Marathi, Hindi, English",Asian,,Very
+128,40-60,Male,yes,15,20,yes,1,"Guitar, clarinet, sitar, soundtracks",Spanish,"spanish
+English(medium)",European,,A Little
+130,20-40,Female,yes,3,10,Yes,1,"Vocal - Hindustani Music, Western Classical Voice
+Instrumental - Hindustani Harmonium",Marathi,"Marathi
+Hindi
+English
+Japanese",Asian,,Expert
+135,40-60,Female,yes,5,15,no,0,Vocal Hindustani classical,Marathi,"Hindi, Marathi, Tamil, English",Asian,,Very
+141,<20,Male,yes,12,4,,0,karnatik classical music,kannada,"kannada, english, hindi",Asian,,A Little
+144,20-40,Female,no,0,0,,0,,telugu,"telugu, tamil, english, hindi",Asian,,Not at all
+149,20-40,Female,no,0,0,,0,,hindi,hindi\r\nenglish,Asian,,Somewhat
+150,40-60,Male,no,0,0,,0,,English,English,American,,Somewhat
+151,20-40,Male,no,0,0,,0,,Konkani,English\r\nHindi\r\nKonkani\r\nTelgu\r\nKannada,Asian,,Somewhat
+152,20-40,Male,yes,17,3,,0,Vocal,Hindi,"Hindi, Marathi, English ",Asian,,Very
+153,20-40,Male,yes,21,2,,1,"Vocal - Carnatic, Hindhustani",Tamil,Tamil\r\nTelugu\r\nEnglish\r\nHindi,Asian,Bangalore,Very
+157,40-60,Female,yes,35,3,,0,vocal classical,hindi,"marwadi,hindi,english,marathi.",Asian,,A Little
+158,20-40,Female,yes,10,4,,0,Hindustani classical,Bengali,English\r\nBengali\r\nHindi,Asian,,A Little
+161,20-40,Female,yes,8,12,no,0,Mandolin and Sitar\r\nHindustani Music Lucknowi gharana,Bengali,"Bengali, Hingdi, English.",Asian,Gurgaon,Expert
+162,20-40,Female,no,0,0,,0,,hindi,"english, hindi",Asian,,Somewhat
+163,20-40,Female,yes,31,0,no,0,Dhrupad - Just starting!,Catalan,"Spanish, Italian, ENglish",European,,Very
+167,20-40,Male,no,0,0,,0,,Bengali,"Hindi , English",Asian,,A Little
+170,20-40,Male,yes,10,11,,2,Vocal - Hindustani Classical,Gujarati,"Gujarati, Hindi, English",Asian,,Expert
+174,<20,Female,yes,10,1,,0,casio,marathi,"Hindi, marathi, english",Asian,,A Little
+176,20-40,Male,no,0,0,,0,,Bengali,"Bengali, Hindi, English",Asian,,Somewhat
+177,<20,Male,yes,3,12,Yes,3,"Vocal - Hindustani Classical Music (Mewati, Gwalior and Kirana Gharana).",Gujarati,Gujarati\r\nEnglish\r\nFrench\r\nSpanish\r\nHindi\r\nPunjabi\r\n,Asian,,Expert
+178,20-40,Male,no,0,0,,0,,Hindi,Hindi\r\nEnglish,Asian,,A Little
+180,20-40,Female,yes,7,12,,0,Karnatic Classical Music,Kannada,"English, Kannada, Hindi",Asian,,A Little
+181,20-40,Female,no,0,0,,0,,Marathi,"Marathi, Hindi, English",Asian,,A Little
+186,20-40,Female,no,0,0,,0,,kannada,kannada \r\nenglish,Asian,,Somewhat
+188,20-40,Female,yes,9,12,yes,2,Hindustani Vocal ,tamil,english\r\nhindi\r\ntamil\r\n,Asian,,Very
+190,40-60,Male,no,0,0,,0,,Kannada,Kannada\r\nHindi\r\nEnglish,Asian,,Very
+191,20-40,Female,no,0,0,,0,,Kannada,Kannada\r\nEnglish\r\nHindi,Asian,,Not at all
+192,20-40,Male,no,0,0,,0,,malayalam,malayalam\r\nenglish\r\ntamil\r\nhindi,Asian,,A Little
+195,20-40,Male,no,0,0,,0,,Marathi,"Marathi, Telugu, Kannada, Hindi, English",Asian,,A Little
+197,20-40,Female,no,0,0,,0,,Hindi,Hindi \r\nEnglish,Asian,No,A Little
+198,20-40,Female,no,0,0,,0,,hindi,hindi\r\nenglish\r\n,Asian,,Somewhat
+199,40-60,Female,no,0,0,,0,,Gujrati,"English, Hindi, Gujrati, Kutchi, Marathi",Asian,,Not at all
+205,>60,Male,no,0,0,,0,,Tamil,"Tamil, Hindi, Marathi, English",Asian,,A Little
+211,20-40,Female,no,0,0,,0,,,,Asian,,Somewhat
+212,20-40,Male,no,0,0,,0,,Kannada,Kannada\r\nEnglish\r\nHindi,Asian,,Very
+214,20-40,Female,yes,8,7,,0,"Vocal, Eastern Classical",Bengali,English\r\nBengali\r\nHindi,Asian,,Very
+216,20-40,Female,no,0,0,,0,,kannada,"hindi,kannada,english",Asian,,Somewhat
+218,20-40,Female,yes,24,1,,1,classical hindustani vocal,hungarian,english\r\nhungarian\r\ngerman,European,,A Little
+222,20-40,Male,no,0,0,,0,,Hindi,Hindi\r\nEnglish,Asian,Manesar,Somewhat
+227,20-40,Male,no,0,0,,0,,Hindi,Hindi,Asian,,Somewhat
+229,40-60,Male,no,0,0,,0,,Hindi,Hindi\r\nenglish\r\npunjabi\r\nbengali\r\ngujrati,Asian,,A Little
+231,<20,Female,yes,8,9,,0,Instrumental-Piano,Hindi,"English, Hindi",Asian,,A Little
+235,20-40,Female,no,0,0,,0,,Tamil,"English, Hindi, TAmil Sourashtra",Asian,,Not at all
+239,20-40,Male,yes,18,3,,0,indian classical \r\ninstrument : sarangi,hindi,marathi \r\nhindi\r\nenglish,Asian,subcontinental asian,A Little
+242,20-40,Female,yes,19,3,,0,Guitar and I play mainly with the technique of finger picking ,English,English,European,,Not at all
+247,40-60,Female,yes,6,6,,0,Piano,English,English,American,,Somewhat
+249,40-60,Male,no,0,0,,0,,sourashtra,"tamil, english, hindi,",Asian,no,Somewhat
+253,40-60,Female,yes,8,10,,0,Piano - ragtime ,English,English,American,,Not at all
+256,20-40,Male,yes,7,4,,0,Hindustani vocal,Hindi,"Hindi, English",Asian,,Very
+261,20-40,Female,no,0,0,,0,,Italian,Italian\r\nEnglish,European,,Somewhat
+263,20-40,Female,yes,8,14,,2,Classical Carnatic Music ,Telugu ,Telugu\r\English\r\Hindi,Asian,,Somewhat
+267,20-40,Female,yes,15,3,,2,"Violin, Flute",Kannada,Kannada\r\nEnglish,Asian,,Not at all
+268,20-40,Male,no,0,0,,0,,telugu,english,Asian,,Not at all
+275,40-60,Male,no,0,0,,0,,Kanada,English\r\nHindi\r\nMarathi\r\nKanada,Asian,,Somewhat
+277,20-40,Male,no,0,0,,0,,Kannada,"Sanskrit, kannada, telugu, tamil, hindi and English",Asian,,Somewhat
+280,>60,Male,yes,23,3,,0,instrumental :flute\r\n,marathi,english\r\nmarathi\r\nhindi\r\nkannada,Asian,subcontinental asian,Somewhat
+281,20-40,Male,yes,9,10,,0,tabla,english telugu,english\r\ntelugu\r\nspanish,Asian,,A Little
+282,20-40,,yes,25,2,,0,Carnatic/Vocal,Tamizh,"Tamizh, English",Asian,,Somewhat
+290,,,,14,1,no,0,guitar,hindi,hindi\r\nenglish,Canada,canadian,Not at all
+293,<20,Female,no,0,0,,0,,,telugu,Asian,,A Little
+294,40-60,Female,yes,7,10,,0,"vocal - community choirs\r\ninstrumental - violin, piano, guitar, recorders etc. Folk, compemporary",English,English,European,,Not at all
+298,20-40,Female,no,0,0,,0,,Tamil,"English, Tamil, Hindi",Asian,,A Little
+299,40-60,Female,yes,12,4,no,0,Clarinet,english,,European,,Not at all
+302,20-40,Female,yes,6,10,,0,Carnatic classical vocal,Kannada,Kannada Telugu Tamil Hindi English,Asian,,Very
+304,20-40,Male,no,0,0,,0,,Kannada,"English,Hindi and kannada.",Asian,Mysore,Somewhat
+306,40-60,Female,yes,14,0,no,0,Vocal - carnatic\r\nVeena- carnatic,tamil,Tamil\r\nEnglish\r\nHindi\r\nMalyalam,Asian,,Somewhat
+307,40-60,Male,yes,18,10,WAS,5,GUITAR /VOCAL,ENGLISH,HINDI,Asian,,Very
+310,20-40,Female,no,0,0,,0,,tamil,"English, Hindi, Tamil",Asian,,A Little
+312,<20,Female,no,0,0,,0,,urdu,urdu\r\nenglish,Asian,,Somewhat
+313,20-40,Male,no,24,2,yes,1,self composed song..self composed music..,punjabi,hindi\r\npunjabi\r\nmultani\r\nenglish,Asian,,Very
+317,20-40,Male,yes,17,5,yes,4,Classical guitar,Spanish,Spanish\r\nEnglish,American,,Not at all
+319,40-60,Female,yes,8,45,yes,4,singing \r\npiano\r\nviola di gamba,dutch,Dutch\r\nFrench\r\nEnglish\r\n,European,,A Little
+320,20-40,Female,no,0,0,,0,,english,welsh,European,,Not at all
+321,20-40,Female,yes,7,20,,0,vocal pop/modern\r\ninstrumental  basic piano and percussion\r\nmostly music theory and musicology,English/Greek,english\r\ngreek,European,,Not at all
+323,20-40,Male,yes,10,15,"no, I teach music for a living, but in the past performed more",0,"classical Western choral music, barbershop harmony, classical guitar, flamenco guitar, various popular guitar styles, Chapman Stick (various styles), microtonal music (various dabbling with theory and electronic music and more)",American English,English\r\nSpanish (not quite fluent),American,,A Little
+324,20-40,Male,yes,18,3,,0,Carnatic classical\r\n\r\nViolin,Telugu,"english, telegu, kannada",Asian,,Very
+330,20-40,Female,yes,5,17,no,0,"Piano, vocal jazz and choral music, choral arranging, music theory",English,English,American,,Somewhat
+332,20-40,Female,yes,12,10,I am a student at the Eastman School of Music studying clarinet performance.,2,"Clarinet, Classical",Malayalam,English,Asian,,A Little
+333,>60,Female,yes,7,13,,0,Western Violin,,,,,
+334,20-40,Female,yes,9,15,,0,"Vocal: jazz, classical\r\nInstrumental: saxophone, classical and jazz",English,English,American,,Somewhat
+335,40-60,Male,yes,12,40,,0,"theory, Western classical",english,english,American,,A Little
+336,>60,Male,yes,7,20,no,0,piano,English,English,American,,Expert
+341,>60,Male,yes,10,12,no,0,classical trumpet,english,english,American,,Very
+347,20-40,Male,no,0,0,,0,,Hindi,Hindi\r\nEnglish,Asian,,A Little
+348,40-60,Male,yes,12,6,No,0,Instrumental (Tabla),Gujarati,"Hindi, English, Gujarati",Asian,,Very
+349,20-40,Male,no,0,0,,0,,Korean,English,Asian,,Somewhat
+351,20-40,Female,yes,7,17,,0,violin\r\npiano,german,french\r\nenglish,European,,Not at all
+352,40-60,Male,no,0,0,,0,,german,"german, english",European,,Somewhat
+354,20-40,Male,no,0,0,,0,,Malayalam,Malayalam\r\nEnglish\r\nHindi,Asian,,A Little
+356,20-40,Male,no,0,0,,0,,Bengali,English\r\nHindi\r\nJapanese,Asian,,A Little
+359,20-40,Male,yes,10,10,,0,instrumental- tabla\r\n(indian classical),bengali,bengali\r\nhindi\r\nenglish,Asian,,Expert
+360,20-40,Female,yes,8,9,yes,0,vocal- western classical\r\npiano- western classical and jazz,English,English\r\nRussian,European,no,A Little
+361,20-40,Male,yes,8,13,,0,"Western classical\r\nPiano, guitar",English,English,European,,Not at all
+362,20-40,Female,yes,0,14,,0,"classical violin (western, suzuki method)",English,English,European,,Not at all
+364,20-40,Male,yes,20,3,No,0,Vocal and harmonium. Elementary training in north Indian classical music.,Urdu,English\r\nUrdu,Asian,,Very
+365,20-40,Female,no,0,0,,0,,Hindi,English Hindi ,Asian,,A Little
+366,20-40,Female,yes,7,12,no,0,Violin- Western classical\r\nPiano- Western classical\r\nViola- Western classical,Englsih,English,European,,Not at all
+367,20-40,Female,yes,5,26,yes,2,Vocal-classical\r\nPiano-classical,English,English\r\nCzech\r\nGerman,American,,Somewhat
+369,40-60,Female,yes,5,35,yes,3,piano,Italian,English\r\nFrench\r\nSpanish\r\nGerman,European,,Not at all
+373,40-60,Female,no,0,0,,0,,German,German\r\nEnglish,European,,Somewhat
+376,40-60,Male,yes,5,45,yes,3,flute- classical\r\npiano- classical,English,French\r\nJapanese,American,,A Little
+379,20-40,Female,yes,5,17,No,0,"Classical, jazz piano, violin",Korean,"Korean, English",Asian,,Not at all
+382,20-40,Female,yes,6,11,,0,"flute, classical music",french,french\r\nenglish,European,,Not at all
+383,20-40,Female,no,0,0,,0,,English,English,European,British,Not at all
+391,20-40,Male,yes,7,19,yes,5,Hindusthani Vocal,Bengali,"Hindi,English,Bengali",Asian,,Expert
+394,40-60,Male,yes,18,22,YES,8,SITAR & MOHANVEENA[BISNUPUR GHARANA],ORIYA,ENGLISH HINDI ORYIYA BENGALI,Asian,I AM NOT UNDERSTAND  TILL NOW,Very
+402,40-60,Male,yes,16,30,YES,2,INSTRUMENTAL - BAANSURI (FLUTE),HINDI,"HINDI, ENGLISH, GUJRATI",Asian,,Expert
+411,20-40,Female,no,0,0,,0,,Hungarian,"English, German",European,,A Little
+412,20-40,Male,no,0,0,,0,,Hungarian,"Hungarian, German, English\r\n",European,,A Little
+413,20-40,Male,yes,12,3,,0,"Instrumental. Guitar, rock, pop.",hungarian,"hungarian, english",European,,A Little
+414,20-40,Male,yes,16,13,Semi-professional,3,"Instrumental - Guitar, American Folk/Blues",English,American English,American,,Very
+415,40-60,Male,no,0,0,,0,,Marathi,English\r\nHindi\r\nGerman\r\nMarathi,Asian,,Very
+416,40-60,Female,no,0,0,,0,,marathi,"marathi, hindi, english",Asian,,A Little
+422,20-40,Male,no,0,0,,0,,hindi,hindi\r\nenglish,Asian,,A Little
+427,20-40,Female,no,0,0,,0,,Spanish,Spanish \r\nEnglish,American,,Not at all
+429,20-40,Male,yes,0,0,,0,Classical Music\r\nInstrument - Mrudangam,Kannada,Kannada\r\nTelugu\r\nEnglish\r\nHindi,Asian,,A Little
+432,40-60,Female,yes,15,14,,0,Western Classical- instrumental- piano/keyboard,English,English\r\nHindi\r\nGujarati,Asian,,A Little
+434,20-40,Female,no,0,0,,0,,hindi,english,Asian,,A Little
+438,40-60,Female,no,0,0,,0,,marathi,english\r\nmarathi\r\nhindi\r\ngujarati\r\n,Asian,,Somewhat
+441,40-60,Female,yes,15,30,semi,1,"Percussion:  tabla, congas, drumset and some piano",English,English\r\nHindi\r\nPunjabi\r\nFrench\r\nGerman,Asian,South Asian (not Oriental),Very
+442,20-40,Female,no,0,0,,0,,HINDI,,Asian,,
+459,<20,Male,yes,6,12,semi-professional,1,Vocal-Indian Classical,Hindi,Hindi\r\nEnglish\r\nNepali\r\nBnegali\r\nFrench,Asian,,Very
+462,<20,Female,yes,0,0,,0,,English,English\r\nHindi,Asian,,A Little
+463,<20,Female,yes,12,7,,0,Vocal and piano,Hindi,Hindi and English,Asian,,Somewhat
+464,<20,Female,yes,12,5,,0,I am learning Western Vocals.,Hindi,Hindi\r\nEnglish,Asian,,Somewhat
+465,<20,Female,yes,5,12,,0,Piano\r\n,hindi,hindi englsih punjabi,Asian,,Somewhat
+466,<20,Female,yes,13,5,,0,Classical guitar\r\nI play western classical music,English,"English, Hindi",Asian,,A Little
+467,<20,Female,yes,8,9,,0,Piano - classical,Hindi,English,Asian,,Not at all
+468,<20,Female,yes,11,5,,0,Piano. Western classical piano,English,English,Asian,,A Little
+469,40-60,Male,no,0,0,,0,,Hindi,English\r\nHindi,Asian,,Somewhat
+470,<20,Male,no,0,0,,0,,"Hindi, Languae",,Other,,Not at all
+472,<20,Female,yes,13,5,,0,Western vocal,Hindi,"Hindi, English",Asian,,Somewhat
+478,20-40,Male,yes,12,5,,0,Violin - Classical Western,Hindi,English\r\nHindi,Asian,,Somewhat
+481,<20,Female,no,0,0,,0,,Hindi,English\r\nHindi,Asian,Indian,A Little
+483,<20,Female,yes,5,11,yes,1,"Vocal - indian classical and western classical/pop\r\nInstrumental - guitar,harmonium",Hindi,hindi\r\nenglish\r\noriya\r\nbengali,Asian,New Delhi,Very
+484,40-60,Female,no,0,0,,0,,Hindi,English\r\nHindi\r\nPunjabi,Asian,,Not at all
+485,<20,Male,no,0,0,,0,,English,Hindi,Asian,,A Little
+487,<20,Male,no,0,0,,0,,Sindhi,"English, Hindi & Sindhi",Asian,,Very
+488,<20,Female,yes,8,4,,0,Vocal,Hindi,Hindi English punjabi,Asian,,Very
+491,<20,Male,yes,8,4,,0,Tabla\r\nsynthesizer\r\nDrums,Hindi,English\r\nHindi\r\nPunjabi,Asian,,Very
+500,<20,Female,no,0,0,,0,,,,Asian,,
+501,<20,Female,no,0,0,,0,,Hindi,Hindi\r\nEnglish,Asian,,Somewhat
+502,20-40,Male,yes,17,3,,0,"Guitar-rock,metal,pop\r\nViolin-\r\nwestern classical",assamese,hindi \r\nenglish,Asian,,A Little
+508,20-40,Female,no,0,0,,0,,tamil,Tamil English,Asian,,A Little
+509,40-60,Male,yes,7,10,,0,Western classical. Choral singing. Piano playing,English,English,European,,Not at all
+511,20-40,Male,no,0,0,,0,,Malayalam,English\r\nTamil\r\n,Asian,,Somewhat
+516,40-60,Female,no,0,0,,0,,hungarian,hungarian,European,,Not at all
+517,20-40,Female,yes,6,7,no,0,clarinet,hungarian,english,European,,Somewhat
+518,20-40,Male,no,0,0,,0,,hungarian,"hungarian,english",European,,Somewhat
+519,20-40,Female,no,0,0,,0,,hungarian,-,European,,Somewhat
+524,20-40,Female,yes,23,2,,0,Vocal,Hungarian,Hungarian\r\nEnglish (...)\r\nFrench (...),European,,Somewhat
+536,20-40,Male,yes,12,13,Yepp,1,Guitar,Hungarian,English,European,,Somewhat
+537,<20,Male,no,0,0,,0,,Magyar,Angol,European,,Not at all
+540,20-40,Female,yes,7,10,,0,fuvola - klasszikus zene; basszusgit’r,magyar,"n’©met, angol",European,,Not at all
+541,20-40,Male,no,0,0,,0,,Magyar,Magyar,European,,Not at all
+544,20-40,Male,yes,16,3,yes,1,"Vocal, all round (musical to rock)",hungarian,"english, german",European,,Somewhat
+545,20-40,Male,yes,0,0,,0,,hungarian,english,European,,A Little
+546,40-60,Female,yes,1978,20,igen,1,vok’lis\r\nk’?nny±zene\r\ngit’r,magyar,,European,,A Little
+549,<20,Male,yes,2010,4,,0,basszusgit’r\r\nmindent,magyar,magyar,European,,Somewhat
+550,20-40,Male,yes,2012,3,,0,"Insrtument’lis, Szaxofon\r\nReagge, Jazz",Magyar,Angol,European,,Somewhat
+553,20-40,Female,no,0,0,,0,,magyar,-,European,,Not at all
+554,20-40,Male,no,0,0,,0,,Hungarian,English,European,,Not at all
+555,20-40,Female,yes,3,0,,0,"komolyzene, k’?nny±zene, ’©nek, git’r",magyar,magyar,European,,Not at all
+558,<20,Male,yes,15,3,,0,git’ron j’tszom mindenf’©le zen’©t,Magyar,Magyar,European,,Not at all
+559,<20,Male,yes,15,0,,0,"git’r; blues, rock, met’l",magyar,angol,European,,Not at all
+562,20-40,Female,no,0,0,,0,,magyar,magyar\r\nangol,European,,Not at all
+565,20-40,Female,yes,10,5,no,0,vocal-carnatic music\r\nInstrumental-piano,kannada,"English,Hindi and kannada",Asian,Navi Mumbai,A Little
+567,20-40,Male,no,0,0,,0,,magyar,magyar,European,,Not at all
+569,20-40,Female,yes,8,5,,0,violin,Hungarian,English,European,,Not at all
+571,20-40,Male,yes,17,2,,0,Flute -Indian Classical Music,Marathi,"English, Hindi",Asian,,A Little
+575,20-40,Male,yes,13,8,Yes,1,Popular Music,Hungarian,English\r\nGerman\r\nHungarian,European,Asian-European,Somewhat
+577,20-40,Female,yes,6,12,,0,instrumentalis,magyar,"magyar, angol, nemet",European,Budapest,Somewhat
+580,20-40,Male,yes,17,6,yes,1,"Piano - jazz, classical\r\nDrums, Percussion instruments",Hungarian,Hungarian\r\nEnglish,European,,A Little
+582,<20,Female,no,0,0,,0,,hungarian,"English, german",European,,A Little
+583,20-40,Female,yes,8,4,,0,"zongor’zni tanultam,de nem haszn’lom",magyar,magyar,European,,Somewhat
+584,20-40,Female,yes,26,1,,0,’©nek+harmonium,magyar,"magyar, angol",European,,Very
+585,20-40,Female,no,0,0,,0,,magyar,"angol, magyar",European,,A Little
+588,40-60,Female,no,0,0,,0,,Hungarian,Hungarian\r\nEnglish\r\nRussian,European,,Not at all
+589,20-40,Male,no,0,0,,0,,magyar,angol,European,,Not at all
+590,20-40,Female,yes,3,20,,2,gospel ’©nek,magyar,,European,,Not at all
+591,20-40,Female,no,0,0,,0,,magyar,magyar,European,,A Little
+594,20-40,Male,yes,11,0,,0,Git’r\r\nBasszusgit’r,magyar,magyar\r\nangol,European,,A Little
+598,40-60,Female,no,0,0,,0,,magyar,,European,,Somewhat
+599,20-40,Male,yes,30,5,,0,basszusgit’r\r\nhard-rock,magyar,,European,,A Little
+600,20-40,Female,yes,7,12,,0,Git’r-klasszikus\r\nZongora-klasszikus,Magyar,Francia,European,,Somewhat
+601,20-40,Male,yes,13,10,,0,Zongora - klasszikus,magyar,"magyar, angol",European,,A Little
+602,<20,Female,yes,12,6,,0,"instrument’lis - furulya, fuvola\r\nklasszikus",magyar,magyar\r\nangol\r\nn’©met,European,,Not at all
+603,20-40,Female,no,0,0,,0,,magyar,magyar,European,,Somewhat
+606,20-40,Female,yes,7,6,,0,Akkusztikus git’r\r\nKar’©nek,magyar,magyar\r\nangol,European,,Not at all
+608,20-40,Female,no,0,0,,0,,magyar,,European,,Not at all
+609,20-40,Female,yes,6,13,,0,"klasszikus - k’?rus’©nekl’©s, klarin’©t;\r\nn’©pi ’©nek",magyar,angol,European,,Not at all
+616,20-40,Female,yes,8,6,,0,szopr’n ’©s alt furulya,magyar,angol,European,Hethersett,Not at all
+617,20-40,Female,yes,8,6,,0,Furulya,magyar,magyar\r\nangol,European,,Not at all
+618,<20,Female,no,0,0,,0,,magyar,magyar,European,,Not at all
+621,20-40,Female,yes,6,6,,0,vok’lis ’©s intsrument’lis zongora,magyar,angol,European,Budapest,Not at all
+623,<20,Female,yes,9,6,,0,zongora\r\nklasszikus zene,magyar,magyar\r\nangol\r\nspanyol,European,,Not at all
+625,20-40,Female,yes,6,12,,0,"’?nek tagozatos iskol’ba j’rtam, f•leg k’?rusm±vekben vettem r’©szt, ’©s zongor’zni tanultam",magyar,angol,European,,Not at all
+626,20-40,Female,no,0,0,,0,,Magyar,n’©met,European,,Somewhat
+628,20-40,Female,no,0,0,,0,,magyar,magyar,European,,Somewhat
+629,20-40,Female,no,0,0,,0,,magyar,magyar,European,,Not at all
+632,20-40,,yes,10,7,,0,Fuvol’n ’©s piccolon j’tszok egy ifj’?s’gi f’?v’?s zenekarban.,Magyar,,European,Magyar,Not at all
+634,20-40,Female,yes,6,5,,0,"git’r,basszusgit’r,cs’?csdob...",magyar,angol,European,,A Little
+636,20-40,Female,yes,7,13,,0,"Fuvol’zok, f•leg komolyzen’©t j’tszok, de szoktam improviz’lni is",magyar,"angol, n’©met",European,,Not at all
+638,20-40,Male,yes,18,3,,0,Git’r-k’?nny± zene,magyar,magyar,European,,Not at all
+639,20-40,Male,no,0,0,,0,,magyar,angol,European,,A Little
+640,20-40,Female,yes,8,15,,0,"- szolf’©zstan’r vagyok\r\n- zongora, furulya\r\n- komolyzene",magyar,magyar,European,,Somewhat
+647,20-40,Male,no,0,0,,0,,Hindi,Hindi\r\nEnglish,Asian,,Somewhat
+650,20-40,Female,yes,7,13,yes,1,carnatic vocal,malayalam,hindi\r\nmalayalam\r\nenglish,Asian,,A Little
+652,20-40,Male,yes,24,10,No,1,Sarod by Pt. Mukesh Sharma.,Hindi,Hindi\r\nEnglish,Asian,,Somewhat
+653,20-40,Female,no,0,0,,0,,Romanian,Englisg,European,,Somewhat
+656,20-40,Male,yes,4,12,,0,"Vocal, Carnatic",Telugu,English\r\nHindi\r\nTelugu\r\nMarathi,Asian,,A Little
+657,20-40,Male,yes,13,16,,0,Instrumental - violin,Kannada,"Kannada,Tamil,Hindi,English",Asian,,Not at all
+660,20-40,Male,yes,0,0,Yes,2,Hindustani Vocal,Gujarati,Gujarati\r\nHindi\r\nEnglish\r\nSpanish\r\nSome Marathi,Asian,,Very
+661,20-40,Female,yes,8,7,no,0,Vocal,marathi,marathi\r\nhindi\r\nenglish\r\ngujarati,Asian,,A Little
+662,<20,Female,yes,9,8,,0,fuvol’zom,magyar,"spanyol, angol",European,,A Little
+675,20-40,Male,no,0,0,,0,,Hindi,"Hindi, English",Asian,,A Little
+678,40-60,Male,no,0,0,,0,,Telugu,English\r\nHindi,Asian,,Somewhat
+679,20-40,Female,no,0,0,,0,,,,Asian,,Somewhat
+687,40-60,Male,yes,5,5,,0,Vocsl,Bengali,"Bengali, Hindi, English",Bangladesh,Bangladeshi,Very
+695,20-40,Male,no,0,0,,0,,Bengali,English\r\nHindi,Asian,,Not at all
+696,20-40,Female,yes,7,10,,0,"Vocal - carnatic, instrumental - veena",Tamil,"English, Tamil, Telugu, Hindi, Kannada",Asian,,A Little
+701,20-40,Female,yes,6,9,,1,"Voice (Carnatic 2 years, Hindustani - 1.5 years, Western choral music - 5 years)\r\nWestern Music theory - 9 months",Tamil,"English, Hindi, Tamil",Asian,,Very
+703,40-60,Female,no,0,0,,0,,Hindi,"English, Hindi",Asian,,Not at all
+705,20-40,Female,no,0,0,,0,,Cantonese,"Mandarin, Cantonese, English",Asian,,Not at all
+706,20-40,Male,yes,10,13,no,0,Piano\r\nViola,Cantonese,English\r\nCantonese,Asian,,Not at all
+707,40-60,Male,yes,10,8,,0,"Drums, percussion\r\nJazz, Western Classical, Rock, Pop",English,English,American,,A Little
+708,20-40,Male,no,0,0,N/A,0,N/A,Cantonese,English\r\nMandarin,Asian,,Not at all
+709,20-40,Male,no,0,0,,0,,Cantonese,english\r\nmadrian,Asian,,Not at all
+711,20-40,Female,yes,12,3,No,0,PIANO,Cantonese,"english,chinese",Asian,,Not at all
+714,20-40,Female,yes,9,3,,0,Instrumental\r\n- African drum\r\n- Dizi,Cantonese,Chinese\r\nEnglish,Asian,,Not at all
+716,20-40,Female,yes,12,3,,0,electronic keyboard,Mandarin,Cantonese\r\nEnglish,Asian,,Not at all
+718,<20,Male,yes,19,1,No,0,High\r\nPiano classical,cantonese,"English,cantonese,putonghua",Asian,No,A Little
+719,20-40,Female,yes,7,10,No.,0,Piano- Classical,Cantonese,English\r\n,Asian,,Not at all
+720,20-40,Male,yes,5,17,No,1,Piano: Classical,cantonese,english \r\ncantonese\r\nmandarin,Asian,,Not at all
+721,<20,Male,no,0,0,,0,,English,English \r\nCantonese,Asian,,Not at all
+723,20-40,Female,no,0,0,,0,,Cantonese,English\r\nCantonese\r\nMandarin,Asian,,Not at all
+726,20-40,Female,no,0,0,,0,,Cantonese,"English, Chinese",Asian,,Somewhat
+728,<20,Female,no,0,0,,0,,Cantonese,English\r\nPutonghua,Asian,,Not at all
+729,20-40,Female,yes,1,1,,0,1.Pianica\r\n2.Clarinet\r\n3.Flute,Cantonese,,Asian,,Not at all
+731,20-40,Female,no,0,0,,0,,Cantonese,Putonghua,Asian,,Not at all
+734,20-40,Female,no,0,0,,0,,cantonese,english,Asian,,Not at all
+736,20-40,Male,no,0,0,,0,,mandarin,English \r\nCantonese,Asian,,Not at all
+738,20-40,Female,no,0,0,,0,,Cantonese,Cantonese\r\nEnglish\r\nJapanese\r\nMandarin,Asian,,Not at all
+740,20-40,Female,no,0,0,,0,,Cantonese,"Cantonese, Mandarin, English",Asian,Other languages? Japanese,Somewhat
+741,<20,Female,yes,5,14,no,0,Choral singing\r\nClassical piano,Cantonese,Cantonese\r\nEnglish\r\nPutongua,Asian,,Not at all
+742,20-40,Female,yes,3,16,,0,Piano and Violin--Classical music and pop songs,Cantonese,Mandarin\r\nEnglish,Asian,,Not at all
+747,20-40,Female,no,0,0,,0,,Cantonese,"Cantonese, Putonghua, English",Asian,,Not at all
+749,20-40,Female,no,0,0,,0,,Cantonese,"Cantonese,\r\nPutonghua",Asian,No,Not at all
+750,20-40,Male,no,0,0,,0,,Hindi,"Hindi, Bangla, English",Asian,,Somewhat
+753,40-60,,no,0,0,,0,,Hindi,"English, Hindi, Marathi, Gujarati, Punjabi",Asian,,Very
+756,20-40,Male,yes,12,3,,0,TABLA - Indian classical instrument for rhythm,Kannada,Kannada \r\nEnglish\r\nHindi\r\nTelgu,Asian,Surat,Very
+759,<20,Female,no,24,0,,0,Gitr’\r\nRock,magyar,magyar,European,,Somewhat
+765,20-40,Male,yes,10,15,Yes,3,Vocal,Malayalam,English,Asian,,Somewhat
+780,20-40,Male,yes,26,3,,0,Carnatic Flute,Kannada,English\r\nHindi\r\nTamil,Asian,Rainham,Somewhat
+781,20-40,Female,yes,12,5,,0,Hindustani vocal,Hindi,Hindi/ english,Asian,,A Little
+786,40-60,Female,yes,10,5,,0,Vocal,Telugu,Tamil\r\nHindi\r\nEnglish,Asian,,A Little
+796,>60,Male,no,0,0,,0,,ENGLISH,,European,,Not at all
+798,40-60,Female,no,0,0,,0,,English,,European,,Not at all
+799,20-40,Female,no,0,0,,0,,English,English\r\nGerman,European,,Not at all
+802,40-60,Female,no,0,0,,0,,english,,European,,Not at all
+804,40-60,Male,no,6,0,,0,,English,English\r\nGujarati,Asian,,Somewhat
+805,40-60,Female,no,0,0,,0,,English,Spanish,European,,Not at all
+806,>60,Male,yes,12,0,,0,"Scottish folk, klezmer, greek; guitar banjo mandolin, bass, percussion",english,"Greek, french, german",European,,Very
+807,40-60,Female,yes,6,50,yes,2,vocal classical western\r\nviolin viola and piano western,english,english,European,,
+808,40-60,Male,yes,0,0,,0,,English,English ,European,,A Little
+809,20-40,Male,yes,8,10,,0,"western classical, rock; drums, percussion",english,,European,,Not at all
+810,40-60,Female,no,0,0,,0,,English,Spanish,European,,Not at all
+812,>60,Female,no,0,0,,0,,English,English\r\nFrench,European,,Somewhat
+813,40-60,Female,no,0,0,,0,,gujrati,english,Asian,,Somewhat
+814,40-60,Female,no,0,0,,0,,English,English,European,London,Somewhat
+815,20-40,Female,yes,8,10,,0,Piano - Classical,English,English,European,,Somewhat
+817,>60,Female,no,0,0,,0,,english,english\r\ndutch,European,no,Somewhat
+818,40-60,Male,yes,9,0,,0,Guitar rock,english,,European,,Not at all
+819,>60,Male,no,0,0,,0,,english,english,European,,Not at all
+821,40-60,Male,no,0,0,,0,,English,English,European,,Somewhat
+822,20-40,Male,no,0,0,,0,,English,English,European,,Not at all
+823,40-60,Male,yes,14,49,,2,Jazz guitar,english,,European,,Somewhat
+825,>60,Male,no,0,0,,0,,English,English,European,,Not at all
+826,>60,Male,yes,14,61,,1,"Guitar, Folk Blues Rock Jazz",English,English,European,,A Little
+829,>60,Male,no,0,0,,0,,English,French \r\nSpanish,European,,A Little
+831,40-60,Male,yes,8,0,occasionally,1,Grade 8 guitar\r\nFolk fiddle\r\nStrong vocalist(bass) Play and sing a wide variety of acoustic music.  Play in a ceilidh band.,English,English,European,,Not at all
+834,40-60,Female,no,0,0,,0,,English ,English \r\nFrench,European,,A Little
+836,20-40,Male,yes,10,6,No,0,Flute,English,,European,,Not at all
+841,40-60,Female,yes,8,6,,0,"accordion, piano",German,"German, English, French, (Dutch, Spanish)",European,,Not at all
+842,40-60,Male,no,0,0,,0,,Tamil,Tamil\r\nMalayalam\r\nHindi\r\nEnglish,Asian,Milton keynes,Very
+844,>60,Female,yes,0,4,,0,Piano  western classical ,English,,European,,Somewhat
+846,20-40,Female,no,0,0,,0,,English,English,European,,A Little
+848,>60,Male,no,0,0,,0,,English,English,European,,Not at all
+850,>60,Male,yes,7,6,,0,"Classical (Western): voice, guitar, piano",English,English\r\nFrench\r\nSpanish,European,,A Little
+851,>60,Female,yes,5,64,,0,Piano and recorders,English,,European,,Not at all
+852,40-60,Female,no,0,0,,0,,English,,European,,Not at all
+853,40-60,Female,no,0,0,,0,,English,,European,,Not at all
+855,>60,Female,no,0,0,,0,,English,,European,,A Little
+856,40-60,Female,no,0,0,,0,,English,English,European,,Not at all
+858,20-40,Female,yes,9,15,,0,"Vocal - chapel choir\r\nflute, oboe, clarinet,  saxophone ",english,,European,,A Little
+859,>60,Female,yes,0,0,,0,piano,German,German\r\nEnglish,European,,Not at all
+860,40-60,Female,no,0,0,,0,,English,,European, ,Not at all
+862,40-60,Female,no,0,0,,0,,English,,European,,Not at all
+863,>60,Female,yes,10,10,no,0,"Piano, Violin & Trumpet - classical & jazz",English,English & French,European,,Somewhat
+865,>60,Female,no,0,0,,0,,english,english,European,,A Little
+866,20-40,Female,yes,8,13,Kind of,2,Classical\r\nCello,English,,European,Redruth,Somewhat
+871,40-60,Male,no,0,0,,0,,English,english,European,,Not at all
+873,40-60,Female,no,0,0,,0,,English,English,American,,Somewhat
+874,20-40,Male,no,0,0,,0,,Teochew,Indonesian\r\nEnglish\r\nDayak Iban\r\nTeochew\r\nHakka,Asian,,Somewhat
+875,40-60,Female,no,0,0,,0,,English,,American,,Not at all
+877,>60,Male,no,0,0,,0,,English,,European,,Not at all
+878,40-60,Female,no,0,0,,0,,English,English,European,,Not at all
+882,20-40,Male,no,0,0,,0,,Telugu,English\r\nHindi,Asian,,Not at all
+883,40-60,Male,no,0,0,,0,,English,English,European,,Not at all
+884,>60,Female,no,0,0,,0,,English,English,European,,Not at all
+885,40-60,Male,no,0,0,,0,,english,french\r\n,European,,Somewhat
+887,20-40,Male,yes,13,5,,1,Mridhangam,Tamil,Tamil\r\nMalayalam\r\nEnglish\r\nHindi,Asian,"Tamil,Indian",Not at all
+891,20-40,Male,no,0,0,,0,,Hindi,English\r\nHindi,Asian,,A Little
+895,20-40,Male,yes,7,12,,0,Grade Five Violin.\r\nGrade Six Recorders.\r\nChoral Singing (no formal exams).\r\nMainly Western Classical.,English,Additional level French (equivalent to \'O\' Level),Asian,,Somewhat
+897,20-40,Female,yes,12,3,,0,Indian Classical Vocal,Bengali,Bengali English Hindi German,Asian,,Very
+899,20-40,Male,yes,25,3,,0,tabla\'\r\nindian classical music,hebrew,hebrew; english,African,,Very
+901,20-40,Male,yes,12,10,,2,Violin,Malayalam,Hindi \r\nEnglish\r\nMalayalam,Asian,,A Little
+944,20-40,Female,yes,6,16,Yes,2,Carnatic Music,Tamil,"English, Tamil, Kannnada",Asian,,A Little
