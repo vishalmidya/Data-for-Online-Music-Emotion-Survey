@@ -73,3 +73,8 @@ The data file is called "AveragedEmotionScores_MusicStimuliValue.csv"
 * _Fscore_NE_ : Familiarity score for Non-Enculturated participants
 * _Raga_number_ : Raga number corresponding to the 24 raga excerpts 
 
+# How to download these csv files ?
+
+* All the files can be downloaded or directly read from their "raw" versions. Please follow this [Stackoverflow link](https://stackoverflow.com/questions/4604663/download-single-files-from-github) for more details. 
+
+
