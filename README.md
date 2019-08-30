@@ -28,6 +28,4 @@ The data file is called "AllRagaData.csv" with dimension of (4855, 18). The colu
 
 
 
-## Summarized data for Regression analyses
-
 
