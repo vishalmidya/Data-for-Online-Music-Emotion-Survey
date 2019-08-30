@@ -20,7 +20,7 @@ The raga excerpts heard by participants of the online survey were presented in a
 
 ## Characterization of the Music Stimuli
 
-Kindly refer to the "Characterization of the music stimuli" section of the main paper for detailed description and estimation procedure of "Note Density", "Pulse Clarity", "Tonality" and "Rhythm".
+Kindly refer to the "Characterization of the music stimuli" section of the main paper for detailed description and estimation procedure for "Note Density", "Pulse Clarity", "Tonality" and "Rhythm".
 
 # Data Files
 
