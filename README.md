@@ -20,9 +20,27 @@ The raga excerpts heard by participants of the online survey were presented in a
 
 # Data Files
 
+## Participant_Information.csv : Detailed Participant Information
+
+This data file presents simple participant demographics and information on their music training. A list of column names and their corresponding information is given below:
+
+Trained : Have you ever recieved a formal training in music ?
+Trained_Start.age : If "yes" to "Trained", then at what age did you start training ?
+Trained_Years : If "yes" to "Trained", then how long have you been trained ?
+Trained_Perfom : If "yes" to "Trained", then have you ever performed semi-professionally or professionally ? 
+Trained_Practise : If "yes" to "Trained", then how many hours per week do you practise ?
+Genre :  If "yes" to "Trained", then which genre of music are you trained in ?
+Language_Native : What is your Native language ?
+Language_fluent : What languages are you fluent in ?
+Ethnicity : What is your ethnicity ? 
+Other : Any further comment on ethnicity ?
+Familiarity : How familiar are you with Hindustani Music ? 
+
+
 ## AllRagaData.csv : All Emotion Response data for the 24 Ragas by Raga Number
 
 The data file is called "AllRagaData.csv" with dimension of (4855, 18). The columns "Angry","Calm.Soothed", "Devotional", "Happy", "Longing.Yearning", "Romantic.Tender","Sad", "Tensed.Restless" present the emotion responses. All the other column names are self-explanatory. 
+
 
 ## Raga number and Raga names 
 
