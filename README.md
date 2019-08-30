@@ -18,6 +18,10 @@ The raga excerpts heard by participants of the online survey were presented in a
 
 650 participants registered for the survey over the period of two years; however, only data from participants who completed at least half the survey (i.e., rated at least six alaap excerpts (out of 12) and six gat excerpts (out of 12)) was considered for analysis.  Thus, the analysis reported in this study is based on the emotional responses reported by 255 participants (118 males, 137 females), 143 enculturated and 112 non-enculturated.  Out of the 143 enculturated participants, 122 overlapped with a previous study.The participants were asked to give demographic details before starting the survey. The participants residing in India who reported their native language as one of the languages specified in Indian constitution (Hindi, Bengali, Gujarati, Kannada, Malayalam, Tamil, Telugu, Marathi, Punjabi, Konkani, Sindhi, Oriya, and Urdu) were considered enculturated. The participants from the following countries, United States (18), UK (13), Hungary (62), France (3), Germany (3), Italy (2), Japan (2), Korea (1), Romania (1), Spain (2), and the Netherlands (3), not specified (2) were classified into the non-enculturated group.
 
+## Characterization of the Music Stimuli
+
+Kindly refer to the "Characterization of the music stimuli" section of the main paper for detailed description and estimation procedure of "Note Density", "Pulse Clarity", "Tonality" and "Rhythm".
+
 # Data Files
 
 ## Participant_Information.csv : Detailed Participant Information
@@ -55,7 +59,9 @@ The data file is called "AllRagaData.csv" with dimension of (4855, 18).
 All the other column names are self-explanatory. 
 
 
-## Raga number and Raga names 
+## Aggregated Emotion score by cultural groups, Music Stimuli values and Familiarity scores
+
+
 
 
 
