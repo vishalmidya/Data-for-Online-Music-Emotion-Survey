@@ -37,13 +37,26 @@ This data file presents simple participant demographics and information on their
 * _Other_ : Any further comment on ethnicity ?   
 * _Familiarity_ : How familiar are you with Hindustani Music ?    
 
+All the other column names are self-explanatory. 
+
 
 ## AllRagaData.csv : All Emotion Response data for the 24 Ragas by Raga Number
 
-The data file is called "AllRagaData.csv" with dimension of (4855, 18). The columns "Angry","Calm.Soothed", "Devotional", "Happy", "Longing.Yearning", "Romantic.Tender","Sad", "Tensed.Restless" present the emotion responses. All the other column names are self-explanatory. 
+The data file is called "AllRagaData.csv" with dimension of (4855, 18). 
+
+* _RagaNumber_ : One particular Raga among the 24 Raga excerpts   
+* The columns "Angry","Calm.Soothed", "Devotional", "Happy", "Longing.Yearning", "Romantic.Tender","Sad", "Tensed.Restless" present the emotion responses  
+* _familiar_ : Are you familiar with Hindustani Music ?
+* _feeling_ : How are you feeling after listening to the raga excerpt ?
+* _Trained_ : Have you ever recieved a formal training in music ?   
+* _Trained_genre_ : If "yes" to "Trained", then which genre of music are you trained in ?   
+* _Familiarity_ : How familiar are you with Hindustani Music ?   
+
+All the other column names are self-explanatory. 
 
 
 ## Raga number and Raga names 
+
 
 
 
