@@ -24,17 +24,17 @@ The raga excerpts heard by participants of the online survey were presented in a
 
 This data file presents simple participant demographics and information on their music training. A list of column names and their corresponding information is given below:
 
-* Trained : Have you ever recieved a formal training in music ?   
-* Trained_Start.age : If "yes" to "Trained", then at what age did you start training ?  
-Trained_Years : If "yes" to "Trained", then how long have you been trained ?
-Trained_Perfom : If "yes" to "Trained", then have you ever performed semi-professionally or professionally ? 
-Trained_Practise : If "yes" to "Trained", then how many hours per week do you practise ?
-Genre :  If "yes" to "Trained", then which genre of music are you trained in ?
-Language_Native : What is your Native language ?
-Language_fluent : What languages are you fluent in ?
-Ethnicity : What is your ethnicity ? 
-Other : Any further comment on ethnicity ?
-Familiarity : How familiar are you with Hindustani Music ? 
+* _Trained_ : Have you ever recieved a formal training in music ?   
+* _Trained_Start.age_ : If "yes" to "Trained", then at what age did you start training ?   
+* _Trained_Years_ : If "yes" to "Trained", then how long have you been trained ?  
+* _Trained_Perfom_ : If "yes" to "Trained", then have you ever performed semi-professionally or professionally ?   
+* _Trained_Practise_ : If "yes" to "Trained", then how many hours per week do you practise ?  
+* _Genre_ :  If "yes" to "Trained", then which genre of music are you trained in ?  
+* _Language_Native_ : What is your Native language ?  
+* _Language_fluent_ : What languages are you fluent in ?  
+* _Ethnicity_ : What is your ethnicity ?   
+* _Other_ : Any further comment on ethnicity ?   
+* _Familiarity_ : How familiar are you with Hindustani Music ?    
 
 
 ## AllRagaData.csv : All Emotion Response data for the 24 Ragas by Raga Number
