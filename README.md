@@ -20,7 +20,7 @@ The raga excerpts heard by participants of the online survey were presented in a
 
 ## Characterization of the Music Stimuli
 
-Kindly refer to the "Characterization of the music stimuli" section of the main paper for detailed description and estimation procedure for "Note Density", "Pulse Clarity", "Tonality" and "Rhythm".
+Kindly refer to the "Characterization of the music stimuli" section of the main paper for detailed description and estimation procedure for *Note Density*, *Pulse Clarity*, *Tonality" and "Rhythm*.
 
 # Data Files
 
@@ -28,33 +28,33 @@ Kindly refer to the "Characterization of the music stimuli" section of the main 
 
 This data file presents simple participant demographics and information on their music training. 
 
-* _ParticipantNumber_ : Participant ID
-* _Trained_ : Have you ever recieved a formal training in music ?   
-* _Trained_Start.age_ : If "yes" to "Trained", then at what age did you start training ?   
-* _Trained_Years_ : If "yes" to "Trained", then how long have you been trained ?  
-* _Trained_Perfom_ : If "yes" to "Trained", then have you ever performed semi-professionally or professionally ?   
-* _Trained_Practise_ : If "yes" to "Trained", then how many hours per week do you practise ?  
-* _Genre_ :  If "yes" to "Trained", then which genre of music are you trained in ?  
-* _Language_Native_ : What is your Native language ?  
-* _Language_fluent_ : What languages are you fluent in ?  
-* _Ethnicity_ : What is your ethnicity ?   
-* _Other_ : Any further comment on ethnicity ?   
-* _Familiarity_ : How familiar are you with Hindustani Music ?    
+* **_ParticipantNumber_** : Participant ID
+* **_Trained_** : Have you ever recieved a formal training in music ?   
+* **_Trained_Start.age_** : If _yes_ to _Trained_, then at what age did you start training ?   
+* **_Trained_Years_** : If *yes* to *Trained*, then how long have you been trained (in years) ?  
+* **_Trained_Perfom_** : If _yes_ to _Trained_, then have you ever performed professionally or semi-professionally ?   
+* **_Trained_Practise_** : If _yes_ to *Trained*, then how many hours per week do you usually practice ?  
+* **_Genre_** :  If *yes* to *Trained*, then which genre of music are you trained in ?  
+* **_Language_Native_** : What is your Native language ?  
+* **_Language_fluent_** : What languages are you fluent in ?  
+* **_Ethnicity_** : What is your ethnicity ?   
+* **_Other_** : Any further comment on ethnicity ?   
+* **_Familiarity_** : How familiar are you with Hindustani Raga Music ?    
 
 All the other column names are self-explanatory. 
 
 
 ## AllRagaData.csv : All Emotion Response data for the 24 Ragas by Raga Number
 
-The data file is called "AllRagaData.csv" with dimension of (4855, 18). 
+The data file is called "AllRagaData.csv" with dimension of (4855, 18) 
 
-* _RagaNumber_ : One particular Raga among the 24 Raga excerpts   
+* **_RagaNumber_** : One particular Raga among the 24 Raga excerpts   
 * The columns "Angry","Calm.Soothed", "Devotional", "Happy", "Longing.Yearning", "Romantic.Tender","Sad", "Tensed.Restless" present the emotion responses.      
-* _familiar_ : Are you familiar with Hindustani Music ?
-* _feeling_ : How are you feeling after listening to the raga excerpt ?
-* _Trained_ : Have you ever recieved a formal training in music ?   
-* _Trained_genre_ : If "yes" to "Trained", then which genre of music are you trained in ?   
-* _Familiarity_ : How familiar are you with Hindustani Music ?   
+* **_familiar_** : Are you familiar with this particular raga excerpt ?
+* **_feeling_** : How are you feeling after listening to the raga excerpt ?
+* **_Trained_** : Have you ever recieved a formal training in music ?   
+* **_Trained_genre_** : If *yes* to *Trained*, then which genre of music are you trained in ?   
+* **_Familiarity_** : How familiar are you with Hindustani Raga Music ?   
 
 All the other column names are self-explanatory. 
 
@@ -64,14 +64,14 @@ All the other column names are self-explanatory.
 The data file is called "AveragedEmotionScores_MusicStimuliValue.csv"
 
 * Calm_E, Calm_NE, Happy_E, Happy_NE, Romantic_E, Romantic_NE, Devotional_E, Devotional_NE, Sad_E, Sad_NE, Tensed_E, Tensed_NE, Angry_E, Angry_NE, Longing_E, Longing_NE : All these columns present the averaged emotion responses either for Enculturated (E) or Non- Enculturated (NE) participants for each of the 24 raga excerpts.  
-* _Mode_ : Presentation mode of the Raga excerpts (_Alaap_ vs. _Gat_)
-* _Note_Density_ : Estimated values for Note_Density
-* _Pulse_Clarity_ : Estimated values for Pulse_Clarity
-* _Tonality_ :	Estimated values for Tonality
-* _Raga_ :	Name of the Raga excerpt
-* _Fscore_E_ : Familiarity score for Enculturated participants
-* _Fscore_NE_ : Familiarity score for Non-Enculturated participants
-* _Raga_number_ : Raga number corresponding to the 24 raga excerpts 
+* **_Mode_** : Presentation mode of the Raga excerpts (_Alaap_ vs. _Gat_)
+* **_Note_Density_** : Estimated values for Note_Density
+* **_Pulse_Clarity_** : Estimated values for Pulse_Clarity
+* **_Tonality_** :	Estimated values for Tonality
+* **_Raga_** :	Name of the Raga excerpt
+* **_Fscore_E_** : Familiarity score for Enculturated participants
+* **_Fscore_NE_** : Familiarity score for Non-Enculturated participants
+* **_Raga_number_** : Raga number corresponding to the 24 raga excerpts 
 
 # How to download these csv files ?
 
