@@ -1,12 +1,12 @@
 # Data-for-Online-Music-Emotion-Survey
 
-This is a reposatory of data used in the paper "Cultural differences in the use of acoustic cues for musical emotion experience".
+This is a reposatory of data used in the paper **Cultural differences in the use of acoustic cues for musical emotion experience**.
 
 # Basic Background Information
 
 ## Online Music Emotion Survey
 
-With the purpose of collecting data from all around the world, a survey consisting of three-minute instrumental renditions of twelve ragas was conducted online. These ragas, played on a stringed instrument (sarod), were digitally recorded in both the alaap and gat stages. The task of the participants was to listen to the raga excerpts and rate their emotional experience on Likert scales of 0-4 (0 being ‘not at all felt’ to 4 being ‘felt the most’ for eight emotion labels: happy, romantic, devotional, calm/soothed, angry, longing/yearning, tensed/restless, and sad. 
+With the purpose of collecting data from all around the world, a survey consisting of three-minute instrumental renditions of twelve ragas was conducted online. These ragas, played on a stringed instrument (sarod), were digitally recorded in both the alaap and gat stages. The task of the participants was to listen to the raga excerpts and rate their emotional experience on Likert scales of **0-4** (**0** being _not at all felt_ to **4** being _felt the most_ for eight emotion labels: _happy_, _romantic_, _devotional_, _calm/soothed_, _angry_, _longing/yearning_, _tensed/restless_, and _sad_. 
 
 The ragas selected for the study were played by a professional musician on sarod (a stringed instrument) digitally recorded in alaap and gat. The sarod was tuned by the artist to just intonation scale with the tonic being at 261.5 Hz.  The emotion labels used in the study were translated to Hindi and transliterated to Roman. The emotion labels used along with the respective translation to Hindi are as follows: happy (khush), romantic (premmaye), devotional (bhaktipurn), calm/soothed (shant), angry (krodhit), longing/yearning (virahapurn), tensed/restless (bechain), and sad (udas). The Romanized transliteration was used as it is widely used in internet communication and global commerce.  
 
