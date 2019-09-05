@@ -55,12 +55,10 @@ The data file is called "AveragedEmotionScores_MusicStimuliValue.csv"
 
 # How to download these csv files ?
 
-* All the files can be downloaded or directly read from their "raw" versions. Please follow this [Stackoverflow link](https://stackoverflow.com/questions/4604663/download-single-files-from-github) for more details. 
-
-* Here is another useful [Stackoverflow link](https://stackoverflow.com/questions/6299220/access-a-url-and-read-data-with-r) on how to *Access a URL and read Data with R*.
+Directly go to Zenodo.org through this DOI link <a href="https://zenodo.org/badge/latestdoi/205243713"><img src="https://zenodo.org/badge/205243713.svg" alt="DOI"></a>
 
 # License (CC-BY-SA-4.0)
 
 Please refer to **LICENSE.txt** in this Repository.
 
-<a href="https://zenodo.org/badge/latestdoi/205243713"><img src="https://zenodo.org/badge/205243713.svg" alt="DOI"></a>
+
