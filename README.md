@@ -62,3 +62,5 @@ The data file is called "AveragedEmotionScores_MusicStimuliValue.csv"
 # License (CC-BY-SA-4.0)
 
 Please refer to **LICENSE.txt** in this Repository.
+
+<a href="https://zenodo.org/badge/latestdoi/205243713"><img src="https://zenodo.org/badge/205243713.svg" alt="DOI"></a>
