@@ -58,3 +58,7 @@ The data file is called "AveragedEmotionScores_MusicStimuliValue.csv"
 * All the files can be downloaded or directly read from their "raw" versions. Please follow this [Stackoverflow link](https://stackoverflow.com/questions/4604663/download-single-files-from-github) for more details. 
 
 * Here is another useful [Stackoverflow link](https://stackoverflow.com/questions/6299220/access-a-url-and-read-data-with-r) on how to *Access a URL and read Data with R*.
+
+# License (CC-BY-SA-4.0)
+
+Please refer to **LICENSE.txt** in this Repository.
