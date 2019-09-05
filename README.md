@@ -2,7 +2,15 @@
 
 This is the online repository of data used in the paper **Cultural differences in the use of acoustic cues for musical emotion experience**.
 
-# Data Files
+# How to download these .csv data files ?
+
+Directly go to [Zenodo.org](https://zenodo.org/record/3387617#.XXFSffBKi00) using this DOI link <a href="https://zenodo.org/badge/latestdoi/205243713"><img src="https://zenodo.org/badge/205243713.svg" alt="DOI"></a>
+
+# How to cite this Dataset ?
+
+Vishal Midya. (2019). vishalmidya/Data-for-Online-Music-Emotion-Survey: JMV (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3387617
+
+# Description of Data Files
 
 ## Participant_Information.csv : Detailed Participant Information
 
@@ -52,14 +60,6 @@ The data file is called "AveragedEmotionScores_MusicStimuliValue.csv"
 * **_Fscore_E_** : Familiarity score for Enculturated participants
 * **_Fscore_NE_** : Familiarity score for Non-Enculturated participants
 * **_Raga_number_** : Raga number corresponding to the 24 raga excerpts 
-
-# How to download these csv files ?
-
-Directly go to [Zenodo.org](https://zenodo.org/record/3387617#.XXFSffBKi00) using this DOI link <a href="https://zenodo.org/badge/latestdoi/205243713"><img src="https://zenodo.org/badge/205243713.svg" alt="DOI"></a>
-
-# How to cite this Dataset ?
-
-Vishal Midya. (2019). vishalmidya/Data-for-Online-Music-Emotion-Survey: JMV (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3387617
 
 # License (CC-BY-SA-4.0)
 
