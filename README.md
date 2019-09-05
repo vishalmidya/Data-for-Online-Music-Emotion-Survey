@@ -1,6 +1,6 @@
 # Data-for-Online-Music-Emotion-Survey
 
-This is a reposatory of data used in the paper **Cultural differences in the use of acoustic cues for musical emotion experience**.
+This is an online repository of data used in the paper **Cultural differences in the use of acoustic cues for musical emotion experience**.
 
 # Basic Background Information
 
