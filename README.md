@@ -8,7 +8,7 @@ Directly go to [Zenodo.org](https://zenodo.org/record/3387617#.XXFSffBKi00) usin
 
 # How to cite this Dataset ?
 
-Vishal Midya, & Nandini Chatterjee Singh. (2019). vishalmidya/Data-for-Online-Music-Emotion-Survey: JMV (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3387617
+Vishal Midya, Avantika Mathur, & Nandini Chatterjee Singh. (2019). vishalmidya/Data-for-Online-Music-Emotion-Survey: JMV (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3387617
 
 # Description of Data Files
 
