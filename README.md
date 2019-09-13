@@ -1,6 +1,10 @@
 # Data-for-Online-Music-Emotion-Survey
 
-This is the online repository of data used in the paper **Cultural differences in the use of acoustic cues for musical emotion experience**.
+This is the online repository of data used in the paper [**Cultural differences in the use of acoustic cues for musical emotion experience**](https://doi.org/10.1371/journal.pone.0222380).
+
+## Citation
+
+Midya V, Valla J, Balasubramanian H, Mathur A, Singh NC (2019) Cultural differences in the use of acoustic cues for musical emotion experience. PLoS ONE 14(9): e0222380. https://doi.org/10.1371/journal.pone.0222380
 
 # How to download these .csv data files ?
 
